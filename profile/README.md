@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <a href="https://ata.network">Website</a> | <a href="https://docs.ata.network">Documentation</a> | <a href="https://ata.ws/discord">Community</a>
+  <a href="https://ata.network">Website</a> | <a href="https://docs.ata.network">Documentation</a> | <a href="https://ata.ws/discord">Community</a> | <a href="https://github.com/automata-network/awesome-automata">Resources</a>
 </p>
